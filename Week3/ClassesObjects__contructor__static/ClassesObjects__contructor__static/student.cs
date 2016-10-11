@@ -8,9 +8,45 @@ namespace ConsoleApplication1
     class Student
     {
 
-        public String name;
-        public int age;
-        public int id;
+        private String name;
+        private int age;
+        private int id;
+        public static int studentNumber;
+
+        public Student(String studentName , int age ,int id)
+        {
+            name = studentName;
+            this.age = age;
+            this.id = id;
+            studentNumber++;
+           
+
+        }
+
+        public String getName()
+        {
+            return name;
+        }
+        public void setName(string name)
+        {
+            this.name = name;
+        }
+        public int getAge()
+        {
+            return age;
+        }
+        public void setAge(int age )
+        {
+            this.age = age;
+        }
+        public int getId()
+        {
+            return id;
+        }
+        public void setId(int id)
+        {
+            this.id = id;
+        }
 
         public void register()
         {
@@ -22,19 +58,7 @@ namespace ConsoleApplication1
             return term * 18;
         }
 
-        public int getStudentAge()
-        {
-            return age;
-        }
-
-        public int getStudentId()
-        {
-            return id;
-        }
-        public String getStudentName()
-        {
-            return name;
-        }
+    
 
     }
 }

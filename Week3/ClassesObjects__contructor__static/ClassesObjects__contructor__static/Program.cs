@@ -9,17 +9,16 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            Student s1 = new Student();
-            s1.name = "Amr";
-            s1.age = 24; ;
-            s1.id = 10102102;
+            Student s1 = new Student("Ahmed", 20, 22322);
+
+            s1.setAge(21);
 
             s1.register();
            int numberOfHours= s1.numberOfFinishedhours(5);
-           int studentId = s1.getStudentId();
-           string studentName = s1.getStudentName();
+         
 
-           Console.WriteLine("the student whose name is {0} and his id is {1} has finished {2} hours",studentName,studentId,numberOfHours);
+           Console.WriteLine("the student whose name is {0} and his id is {1} has finished {2} hours",s1.getName(),s1.getId(),numberOfHours);
+           Console.WriteLine("there are {0} in the system", Student.studentNumber);
 
            Console.ReadLine();
         }
