@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week5-inheritance\bin\Debug\Week5-inheritance.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week5-inheritance\bin\Debug\Week5-inheritance.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week5-inheritance\obj\x86\Debug\Week5-inheritance.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week5-inheritance\obj\x86\Debug\Week5-inheritance.pdb
+E:\Advanced programming\Week5\Week5-inheritance\Week5-inheritance\obj\x86\Debug\Week5-inheritance.exe
+E:\Advanced programming\Week5\Week5-inheritance\Week5-inheritance\obj\x86\Debug\Week5-inheritance.pdb
