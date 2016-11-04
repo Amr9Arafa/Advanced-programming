@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Base-child-polymorphism\bin\Debug\Base-child-polymorphism.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Base-child-polymorphism\bin\Debug\Base-child-polymorphism.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Base-child-polymorphism\obj\x86\Debug\Base-child-polymorphism.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Base-child-polymorphism\obj\x86\Debug\Base-child-polymorphism.pdb
+E:\Advanced programming\Week7\Base-child-polymorphism\Base-child-polymorphism\obj\x86\Debug\Base-child-polymorphism.exe
+E:\Advanced programming\Week7\Base-child-polymorphism\Base-child-polymorphism\obj\x86\Debug\Base-child-polymorphism.pdb

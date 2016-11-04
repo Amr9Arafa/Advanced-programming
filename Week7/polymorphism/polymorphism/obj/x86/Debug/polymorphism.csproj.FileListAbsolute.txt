@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\polymorphism\bin\Debug\polymorphism.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\polymorphism\bin\Debug\polymorphism.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\polymorphism\obj\x86\Debug\polymorphism.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\polymorphism\obj\x86\Debug\polymorphism.pdb
+E:\Advanced programming\Week7\polymorphism\polymorphism\obj\x86\Debug\polymorphism.exe
+E:\Advanced programming\Week7\polymorphism\polymorphism\obj\x86\Debug\polymorphism.pdb
