@@ -1,0 +1,5 @@
+E:\Advanced programming\Week10\File\File\bin\Debug\File.exe
+E:\Advanced programming\Week10\File\File\bin\Debug\File.pdb
+E:\Advanced programming\Week10\File\File\obj\x86\Debug\File.csprojResolveAssemblyReference.cache
+E:\Advanced programming\Week10\File\File\obj\x86\Debug\File.exe
+E:\Advanced programming\Week10\File\File\obj\x86\Debug\File.pdb

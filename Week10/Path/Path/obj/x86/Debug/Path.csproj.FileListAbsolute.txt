@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Path\bin\Debug\Path.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Path\bin\Debug\Path.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Path\obj\x86\Debug\Path.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Path\obj\x86\Debug\Path.pdb
+E:\Advanced programming\Week10\Path\Path\obj\x86\Debug\Path.exe
+E:\Advanced programming\Week10\Path\Path\obj\x86\Debug\Path.pdb

@@ -100,7 +100,7 @@ namespace ConsoleApplication4
             }
             double min = 1e9;//1e9=10^9;
             int idx = -1;
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 15; i++)
             {
                 /* double topspeed;
                  int pcapacity;
@@ -116,6 +116,7 @@ namespace ConsoleApplication4
                 cars[i].Price = double.Parse(Console.ReadLine());
                 cars[i].Color = char.Parse(Console.ReadLine());
                 cars[i].Enginecapacity = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter True if it's the first type of wheel or False if it's the second:");
                 cars[i].Wheel = bool.Parse(Console.ReadLine());
                 cars[i].Type = Console.ReadLine();
                 if (cars[i].Type == "MPV" && cars[i].Pcapacity >= 6 && cars[i].Color == 'r')
@@ -126,32 +127,31 @@ namespace ConsoleApplication4
                         idx = i;
                     }
                 }
-                if (idx != -1)
-                    Console.WriteLine(cars[idx].Price);
-                else
-                {
-                    Console.WriteLine("No Cars Found");
 
-                }
                 Console.WriteLine("-----------");
             }
-            for (int i = 0; i < 15; i++)
+
+            for (int i = 0; i < 10; i++)
             {
-                /*   bool watertype;
-         string theothertype;
-         int sailingid;
-                 */
+
                 Console.WriteLine("BoatNumber: " + (i + 1));
                 boats[i].Topspeed = double.Parse(Console.ReadLine());
                 boats[i].Pcapacity = int.Parse(Console.ReadLine());
                 boats[i].Price = double.Parse(Console.ReadLine());
                 boats[i].Color = char.Parse(Console.ReadLine());
+                Console.WriteLine("Enter True if it's the first type of Watertype or False if it's the second type:");
                 boats[i].Watertype = bool.Parse(Console.ReadLine());
                 boats[i].Theothertype = Console.ReadLine();
                 boats[i].Sailingid = int.Parse(Console.ReadLine());
                 Console.WriteLine("--------");
             }
+            if (idx != -1)
+                Console.WriteLine("The Cheapest Blabla...car price is:" + cars[idx].Price);
+            else
+            {
+                Console.WriteLine("No Cars Found");
 
+            }
         }
     }
 }

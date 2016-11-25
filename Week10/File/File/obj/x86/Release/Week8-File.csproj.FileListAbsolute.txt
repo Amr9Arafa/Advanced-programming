@@ -1,0 +1,4 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week8-File\bin\Release\Week8-File.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week8-File\bin\Release\Week8-File.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week8-File\obj\x86\Release\Week8-File.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Week8-File\obj\x86\Release\Week8-File.pdb

@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\directory\bin\Debug\directory.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\directory\bin\Debug\directory.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\directory\obj\x86\Debug\directory.pdb
+E:\Advanced programming\Week10\directory\directory\obj\x86\Debug\directory.exe
+E:\Advanced programming\Week10\directory\directory\obj\x86\Debug\directory.pdb
