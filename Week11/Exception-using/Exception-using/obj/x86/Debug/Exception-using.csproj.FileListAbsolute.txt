@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-using\bin\Debug\Exception-using.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-using\bin\Debug\Exception-using.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-using\obj\x86\Debug\Exception-using.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-using\obj\x86\Debug\Exception-using.pdb
+E:\Advanced programming\Week11\Exception-using\Exception-using\obj\x86\Debug\Exception-using.exe
+E:\Advanced programming\Week11\Exception-using\Exception-using\obj\x86\Debug\Exception-using.pdb

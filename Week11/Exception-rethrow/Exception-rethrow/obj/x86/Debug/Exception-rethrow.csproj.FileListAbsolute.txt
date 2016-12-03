@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-rethrow\bin\Debug\Exception-rethrow.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-rethrow\bin\Debug\Exception-rethrow.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-rethrow\obj\x86\Debug\Exception-rethrow.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-rethrow\obj\x86\Debug\Exception-rethrow.pdb
+E:\Advanced programming\Week11\Exception-rethrow\Exception-rethrow\obj\x86\Debug\Exception-rethrow.exe
+E:\Advanced programming\Week11\Exception-rethrow\Exception-rethrow\obj\x86\Debug\Exception-rethrow.pdb

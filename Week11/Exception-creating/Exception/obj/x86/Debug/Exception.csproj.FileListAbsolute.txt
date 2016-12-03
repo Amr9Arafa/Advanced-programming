@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception\bin\Debug\Exception.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception\bin\Debug\Exception.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception\obj\x86\Debug\Exception.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception\obj\x86\Debug\Exception.pdb
+E:\Advanced programming\Week11\Exception-creating\Exception\obj\x86\Debug\Exception.exe
+E:\Advanced programming\Week11\Exception-creating\Exception\obj\x86\Debug\Exception.pdb

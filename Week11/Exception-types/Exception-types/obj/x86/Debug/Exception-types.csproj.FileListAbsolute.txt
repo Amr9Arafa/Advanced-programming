@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-types\bin\Debug\Exception-types.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-types\bin\Debug\Exception-types.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-types\obj\x86\Debug\Exception-types.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Exception-types\obj\x86\Debug\Exception-types.pdb
+E:\Advanced programming\Week11\Exception-types\Exception-types\obj\x86\Debug\Exception-types.exe
+E:\Advanced programming\Week11\Exception-types\Exception-types\obj\x86\Debug\Exception-types.pdb
