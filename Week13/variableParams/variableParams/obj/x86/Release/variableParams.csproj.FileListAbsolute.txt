@@ -1,0 +1,4 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\variableParams\bin\Release\variableParams.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\variableParams\bin\Release\variableParams.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\variableParams\obj\x86\Release\variableParams.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\variableParams\obj\x86\Release\variableParams.pdb

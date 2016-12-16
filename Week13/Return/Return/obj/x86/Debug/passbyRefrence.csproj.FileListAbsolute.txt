@@ -1,0 +1,4 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyRefrence\bin\Debug\passbyRefrence.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyRefrence\bin\Debug\passbyRefrence.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyRefrence\obj\x86\Debug\passbyRefrence.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyRefrence\obj\x86\Debug\passbyRefrence.pdb

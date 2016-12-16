@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyrefrence\bin\Debug\passbyrefrence.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyrefrence\bin\Debug\passbyrefrence.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyrefrence\obj\x86\Debug\passbyrefrence.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\passbyrefrence\obj\x86\Debug\passbyrefrence.pdb
+E:\Advanced programming\Week13\passbyrefrence\passbyrefrence\obj\x86\Debug\passbyrefrence.exe
+E:\Advanced programming\Week13\passbyrefrence\passbyrefrence\obj\x86\Debug\passbyrefrence.pdb

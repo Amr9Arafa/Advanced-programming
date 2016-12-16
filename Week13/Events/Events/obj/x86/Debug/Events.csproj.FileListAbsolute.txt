@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\bin\Debug\Events.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\bin\Debug\Events.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\obj\x86\Debug\Events.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\obj\x86\Debug\Events.pdb
+E:\Advanced programming\Week13\Events\Events\obj\x86\Debug\Events.exe
+E:\Advanced programming\Week13\Events\Events\obj\x86\Debug\Events.pdb

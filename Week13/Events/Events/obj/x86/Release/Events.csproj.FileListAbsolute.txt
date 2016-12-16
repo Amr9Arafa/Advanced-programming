@@ -1,0 +1,4 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\bin\Release\Events.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\bin\Release\Events.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\obj\x86\Release\Events.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Events\obj\x86\Release\Events.pdb

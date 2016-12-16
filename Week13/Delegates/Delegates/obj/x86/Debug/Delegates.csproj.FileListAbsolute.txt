@@ -1,0 +1,6 @@
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Delegates\bin\Debug\Delegates.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Delegates\bin\Debug\Delegates.pdb
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Delegates\obj\x86\Debug\Delegates.exe
+C:\Users\amr arafa\AppData\Local\Temporary Projects\Delegates\obj\x86\Debug\Delegates.pdb
+E:\Advanced programming\Week13\Delegates\Delegates\obj\x86\Debug\Delegates.exe
+E:\Advanced programming\Week13\Delegates\Delegates\obj\x86\Debug\Delegates.pdb
